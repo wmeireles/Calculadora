@@ -29,4 +29,4 @@ Uma calculadora simples e interativa desenvolvida com React.js.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-react.git
+   git clone https://github.com/seu-usuario/Calculadora.git

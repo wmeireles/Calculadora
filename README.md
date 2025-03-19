@@ -7,9 +7,9 @@ Uma calculadora simples e interativa desenvolvida com React.js.
 
 ## 🚀 Demonstração
 
-[Link para o projeto online](#) <!-- Substitua pelo link do seu projeto -->
+<!--  [Link para o projeto online](#) <!-- Substitua pelo link do seu projeto -->
 
-![GIF ou Imagem da Calculadora](#) <!-- Adicione uma imagem ou GIF da calculadora em funcionamento -->
+<!-- ![GIF ou Imagem da Calculadora](#) <!-- Adicione uma imagem ou GIF da calculadora em funcionamento -->
 
 ## 📋 Funcionalidades
 

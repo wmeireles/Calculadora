@@ -5,7 +5,7 @@
 
 Uma calculadora simples e interativa desenvolvida com React.js.
 
-## 🚀 Demonstração
+<!-- ## 🚀 Demonstração 
 
 <!--  [Link para o projeto online](#) <!-- Substitua pelo link do seu projeto -->
 
